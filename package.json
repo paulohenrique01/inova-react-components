@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/paulohenrique01/inova-react-components.git"
   },
   "dependencies": {
     "@material-ui/core": "^4.0.0",
